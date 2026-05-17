@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rumman Khan</h1>
-<h3 align="center">Self Learning</h3>
+<h3 align="center">Robotics | Automation | Arduino</h3>
 
 <!--
 
